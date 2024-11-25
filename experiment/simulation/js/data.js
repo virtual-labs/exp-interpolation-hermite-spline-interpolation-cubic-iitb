@@ -1,0 +1,10 @@
+let xh = [];
+let x_val = [];
+let y_val = [];
+let x_dash = [];
+let y_dash = [];
+let u = [];
+let xu = [];
+let yu = [];
+let tb_data = [];
+//# sourceMappingURL=data.js.map
