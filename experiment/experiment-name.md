@@ -1,1 +1,1 @@
-## Experiment name
+## Interpolation: Hermite Cubic Spline Interpolation
